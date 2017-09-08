@@ -1,0 +1,28 @@
+body {
+   background-color: #77a9af;
+}
+h1 {
+    color: #cccccc;
+}
+#btn-div {
+    margin: 10px 0px 0px 0px;
+}
+#changeTextBtn {
+    background-color: #cccccc;
+    color: #77a9af;
+}
+#inputDiv {
+    width: 180px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto 0 auto;
+}
+#wordInput {
+    outline: none;
+    border: 0px;
+    margin: 1px auto 1px auto;
+}
+.inputMarg {
+   margin-top: 40px;
+   margin-bottom: 190px;
+}
